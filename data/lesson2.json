@@ -1,0 +1,157 @@
+{
+    "id": "lesson2",
+    "title": "Adverbs of Manner",
+    "theoryHTML": "<div class='theory-section'><h3>1. What is an Adverb of Manner?</h3><p>Adjectives describe <strong>nouns</strong> (things or people), but Adverbs of Manner describe <strong>verbs</strong> (actions). They tell us <strong>HOW</strong> an action is done.</p><div class='example-box'><strong>Adjective:</strong> Pau is a <strong>quick</strong> runner. (Describes Pau)<br><strong>Adverb:</strong> Pau runs <strong>quickly</strong>. (Describes HOW he runs)</div><h3>2. The General Rule (+ly)</h3><p>For most words, we just add <strong>-ly</strong> at the end of the adjective.</p><ul><li>slow ➔ <strong>slowly</strong></li><li>quick ➔ <strong>quickly</strong></li><li>bad ➔ <strong>badly</strong></li><li>careful ➔ <strong>carefully</strong></li><li>happy ➔ <strong>happily</strong> (change 'y' to 'i')</li></ul><div class='example-box'>The teacher speaks <strong>slowly</strong> so we can understand.<br>He finished the Minecraft house <strong>easily</strong>.</div><h3>3. Irregular Adverbs (The Rebels!) 🚨</h3><p>Some adverbs don't follow the rules. You must memorize these because they are very common in English!</p><ul><li>good ➔ <strong>well</strong> (NEVER say 'goodly')</li><li>fast ➔ <strong>fast</strong> (NEVER say 'fastly')</li><li>hard ➔ <strong>hard</strong> (NEVER say 'hardly' when you mean 'with effort')</li><li>late ➔ <strong>late</strong> (NEVER say 'lately' when you mean 'not on time')</li></ul><div class='example-box'>He plays tennis very <strong>well</strong>. (Not 'very good')<br>The sports car goes very <strong>fast</strong>.<br>She trains very <strong>hard</strong> for the tournament.</div></div>",
+    "questions": [
+        {
+            "text": "My brother plays the guitar very ___.",
+            "options": ["good", "well", "goodly"],
+            "correctAnswer": 1,
+            "explanation": "We need an adverb to describe HOW he plays. The adverb of 'good' is the irregular word 'well'."
+        },
+        {
+            "text": "The turtle walks very ___.",
+            "options": ["slow", "slowly", "slowing"],
+            "correctAnswer": 1,
+            "explanation": "We add '-ly' to the adjective 'slow' to make the adverb 'slowly'."
+        },
+        {
+            "text": "You must run ___ if you want to win the race.",
+            "options": ["fast", "fastly", "quickly"],
+            "correctAnswer": 0,
+            "explanation": "'Fast' is an irregular adverb. It does NOT take '-ly'. 'Fastly' doesn't exist in English!"
+        },
+        {
+            "text": "Please, speak ___. The baby is sleeping.",
+            "options": ["quiet", "quietly", "quietness"],
+            "correctAnswer": 1,
+            "explanation": "We add '-ly' to 'quiet' to describe how you should speak: 'quietly'."
+        },
+        {
+            "text": "I did very ___ in my math exam. I got a 3 out of 10.",
+            "options": ["bad", "badly", "worse"],
+            "correctAnswer": 1,
+            "explanation": "To describe the verb 'did', we use the adverb 'badly'."
+        },
+        {
+            "text": "Link fights ___ against the monsters in Zelda: Tears of the Kingdom.",
+            "options": ["brave", "bravely", "bravelly"],
+            "correctAnswer": 1,
+            "explanation": "We add '-ly' to 'brave'. It describes how he fights."
+        },
+        {
+            "text": "She studies very ___ to get good grades.",
+            "options": ["hard", "hardly", "harding"],
+            "correctAnswer": 0,
+            "explanation": "'Hard' is an irregular adverb that stays exactly the same as the adjective. ('Hardly' means 'almost nothing', which is different!)."
+        },
+        {
+            "text": "The dog was eating its food ___ because it was very hungry.",
+            "options": ["quick", "quickly", "quickness"],
+            "correctAnswer": 1,
+            "explanation": "We add '-ly' to the adjective 'quick' to form the adverb 'quickly'."
+        },
+        {
+            "text": "I can ___ lift this box, it's very light.",
+            "options": ["easy", "easily", "easilly"],
+            "correctAnswer": 1,
+            "explanation": "When an adjective ends in 'y' (easy), we change the 'y' to 'i' and add '-ly': 'easily'."
+        },
+        {
+            "text": "The children are playing ___ in the garden.",
+            "options": ["happy", "happily", "happyly"],
+            "correctAnswer": 1,
+            "explanation": "Like 'easy', 'happy' ends in 'y'. Change it to 'i' and add '-ly': 'happily'."
+        },
+        {
+            "text": "He woke up ___ and missed the school bus.",
+            "options": ["late", "lately", "latelly"],
+            "correctAnswer": 0,
+            "explanation": "'Late' is an irregular adverb that doesn't change. ('Lately' means 'recently')."
+        },
+        {
+            "text": "You speak English very ___! Where did you learn it?",
+            "options": ["good", "well", "nice"],
+            "correctAnswer": 1,
+            "explanation": "You are describing HOW someone speaks (the verb). The adverb of 'good' is 'well'."
+        },
+        {
+            "text": "Please write ___, I can't read your letters.",
+            "options": ["clear", "clearly", "clearness"],
+            "correctAnswer": 1,
+            "explanation": "We add '-ly' to 'clear' to describe how the person should write."
+        },
+        {
+            "text": "The teacher looked at me ___ because I didn't do my homework.",
+            "options": ["angry", "angrily", "angryly"],
+            "correctAnswer": 1,
+            "explanation": "'Angry' ends in 'y', so it becomes 'angrily'."
+        },
+        {
+            "text": "The car crashed because he was driving ___.",
+            "options": ["dangerous", "dangerously", "danger"],
+            "correctAnswer": 1,
+            "explanation": "We add '-ly' to 'dangerous' to describe how he was driving."
+        },
+        {
+            "text": "Don't drive so ___! The speed limit is 50 km/h.",
+            "options": ["fastly", "fast", "faster"],
+            "correctAnswer": 1,
+            "explanation": "Remember the irregular rule: 'fast' is both an adjective and an adverb. 'Fastly' does not exist."
+        },
+        {
+            "text": "We won the basketball match ___! The score was 80-20.",
+            "options": ["easy", "easily", "easiness"],
+            "correctAnswer": 1,
+            "explanation": "We use the adverb 'easily' to describe how we won."
+        },
+        {
+            "text": "You need to kick the ball ___ to score a goal from here.",
+            "options": ["hard", "hardly", "harderly"],
+            "correctAnswer": 0,
+            "explanation": "To describe kicking with a lot of force, we use 'hard'. It is an irregular adverb."
+        },
+        {
+            "text": "He opened the door ___ because it was broken.",
+            "options": ["careful", "carefully", "carefuly"],
+            "correctAnswer": 1,
+            "explanation": "We add '-ly' to 'careful'. Since careful already has an 'L', it becomes 'carefully' with double L."
+        },
+        {
+            "text": "The dog barks ___ when a stranger comes to the house.",
+            "options": ["loud", "loudly", "loudy"],
+            "correctAnswer": 1,
+            "explanation": "We add '-ly' to the adjective 'loud' to make the adverb 'loudly'."
+        },
+        {
+            "text": "She dances ___. She should go to a talent show!",
+            "options": ["beautiful", "beautifully", "beauty"],
+            "correctAnswer": 1,
+            "explanation": "We add '-ly' to 'beautiful'. It gets a double L: 'beautifully'."
+        },
+        {
+            "text": "My grandmother drives very ___.",
+            "options": ["careful", "carefully", "careless"],
+            "correctAnswer": 1,
+            "explanation": "We use the adverb 'carefully' to describe the action of driving."
+        },
+        {
+            "text": "I answered all the questions ___ and got a 10/10.",
+            "options": ["perfect", "perfectly", "perfectness"],
+            "correctAnswer": 1,
+            "explanation": "We add '-ly' to 'perfect' to describe how the questions were answered."
+        },
+        {
+            "text": "It is raining ___. We can't go to the park.",
+            "options": ["heavy", "heavily", "heavyly"],
+            "correctAnswer": 1,
+            "explanation": "'Heavy' ends in 'y', so we change it to 'i' and add '-ly': 'heavily'."
+        },
+        {
+            "text": "He is a ___ student, but he behaves ___ in class.",
+            "options": ["good / bad", "well / badly", "good / badly"],
+            "correctAnswer": 2,
+            "explanation": "Tricky one! 'Good' is an adjective describing the noun 'student'. 'Badly' is the adverb describing the verb 'behaves'."
+        }
+    ]
+}

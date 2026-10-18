@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PAU's English Course</title>
+    <!-- Link to the separate stylesheet -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header class="app-header">
+        <div class="logo">🚀 PAU's English Course</div>
+    </header>
+
+    <main id="app-container" class="container">
+        
+        <!-- ==========================================
+             SCREEN 1: MAIN MENU 
+             ========================================== -->
+        <section id="menu-view" class="view active">
+            <h1>Choose your mission for today</h1>
+            <p class="subtitle">Select a lesson to start learning and practicing.</p>
+            
+            <!-- JS will inject lesson buttons dynamically here -->
+            <div id="lessons-grid" class="lessons-grid"></div>
+        </section>
+
+        <!-- ==========================================
+             SCREEN 2: LESSON (THEORY AND EXERCISES)
+             ========================================== -->
+        <section id="lesson-view" class="view hidden">
+            <button id="btn-back" class="btn-back">⬅ Back to menu</button>
+            
+            <div class="lesson-wrapper">
+                <h2 id="lesson-title" class="lesson-title">Loading...</h2>
+                
+                <!-- Container for the explanatory theory -->
+                <div id="lesson-theory" class="theory-section"></div>
+                
+                <!-- Button to transition from theory to exercises -->
+                <button id="btn-start-quiz" class="btn-primary hidden">Got it! Start exercises 🎮</button>
+
+                <!-- Container for the quiz (25 questions) -->
+                <div id="lesson-quiz" class="quiz-section hidden">
+                    <div class="progress-bar">
+                        <div id="progress-fill" class="progress-fill"></div>
+                    </div>
+                    <div id="question-container" class="question-container"></div>
+                    
+                    <div class="quiz-footer">
+                        <span id="question-counter" class="counter">Question 1 / 25</span>
+                        <button id="btn-next" class="btn-primary" disabled>Next</button>
+                    </div>
+                </div>
+
+                <!-- Container for Results -->
+                <div id="lesson-results" class="results-section hidden">
+                    <h3>Lesson Completed! 🎉</h3>
+                    <div id="score-circle" class="score-circle"></div>
+                    <p id="score-text" class="score-text"></p>
+                    <button id="btn-finish" class="btn-primary">Back to home</button>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Link to the application logic -->
+    <script src="js/app.js"></script>
+</body>
+</html>

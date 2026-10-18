@@ -1,0 +1,157 @@
+{
+    "id": "lesson1",
+    "title": "Present Simple vs Present Continuous",
+    "theoryHTML": "<div class='theory-section'><h3>1. Present Simple (Routines & Facts)</h3><p>We use the <strong>Present Simple</strong> to talk about things we do every day, habits, routines, or things that are always true.</p><ul><li><strong>Keywords:</strong> always, usually, often, sometimes, never, every day, on Mondays.</li></ul><div class='example-box'>I <strong>play</strong> Minecraft every evening.<br>She never <strong>eats</strong> vegetables.<br>Water <strong>boils</strong> at 100 degrees.</div><h3>2. Present Continuous (Happening NOW)</h3><p>We use the <strong>Present Continuous</strong> (verb to be + verb-ing) to talk about actions that are happening right at this exact moment.</p><ul><li><strong>Keywords:</strong> now, right now, at the moment, look!, listen!</li></ul><div class='example-box'>Look! The dog <strong>is sleeping</strong> on the sofa.<br>I <strong>am doing</strong> my homework right now.</div><h3>3. Present Continuous (Future Plans)</h3><p>We ALSO use the <strong>Present Continuous</strong> to talk about future plans that are already organized or fixed.</p><ul><li><strong>Keywords:</strong> tonight, tomorrow, this afternoon, next weekend.</li></ul><div class='example-box'>I <strong>am playing</strong> football with my friends this afternoon. (It is a plan!)<br>We <strong>are traveling</strong> to London tomorrow.</div></div>",
+    "questions": [
+        {
+            "text": "I usually ___ cereal for breakfast, but today I am eating toast.",
+            "options": ["eat", "am eating", "eats"],
+            "correctAnswer": 0,
+            "explanation": "'Usually' indicates a routine or habit, so we use the Present Simple ('eat')."
+        },
+        {
+            "text": "Shh! The baby ___ in the bedroom.",
+            "options": ["sleeps", "is sleeping", "sleep"],
+            "correctAnswer": 1,
+            "explanation": "'Shh!' means the action is happening right now, so we use Present Continuous ('is sleeping')."
+        },
+        {
+            "text": "We ___ a movie at the cinema this evening. I have the tickets!",
+            "options": ["watch", "are watching", "watches"],
+            "correctAnswer": 1,
+            "explanation": "'This evening' and having the tickets means it's a fixed future plan. We use Present Continuous ('are watching')."
+        },
+        {
+            "text": "My dad ___ to work by car every morning.",
+            "options": ["go", "goes", "is going"],
+            "correctAnswer": 1,
+            "explanation": "'Every morning' is a routine. For 'He/She/It' in Present Simple, we add -s or -es ('goes')."
+        },
+        {
+            "text": "Look! The boys ___ football in the park.",
+            "options": ["play", "plays", "are playing"],
+            "correctAnswer": 2,
+            "explanation": "'Look!' tells us the action is happening right now. We use Present Continuous ('are playing')."
+        },
+        {
+            "text": "I ___ to the dentist tomorrow at 5:00 PM.",
+            "options": ["go", "am going", "goes"],
+            "correctAnswer": 1,
+            "explanation": "'Tomorrow at 5:00 PM' is a fixed future arrangement, so we use Present Continuous ('am going')."
+        },
+        {
+            "text": "Water ___ at 100 degrees Celsius.",
+            "options": ["is boiling", "boil", "boils"],
+            "correctAnswer": 2,
+            "explanation": "This is a scientific fact that is always true. We use Present Simple ('boils')."
+        },
+        {
+            "text": "What ___ right now?",
+            "options": ["do you do", "are you doing", "you do"],
+            "correctAnswer": 1,
+            "explanation": "'Right now' indicates an action in progress. We use Present Continuous ('are you doing')."
+        },
+        {
+            "text": "They ___ basketball on Tuesdays.",
+            "options": ["play", "are playing", "plays"],
+            "correctAnswer": 0,
+            "explanation": "'On Tuesdays' is a weekly routine. We use Present Simple ('play')."
+        },
+        {
+            "text": "I can't talk right now. I ___ my homework.",
+            "options": ["do", "does", "am doing"],
+            "correctAnswer": 2,
+            "explanation": "'I can't talk right now' means the action is happening at this very moment. Present Continuous ('am doing')."
+        },
+        {
+            "text": "She ___ her grandparents next weekend.",
+            "options": ["visits", "is visiting", "visit"],
+            "correctAnswer": 1,
+            "explanation": "'Next weekend' is a planned future event. We use Present Continuous ('is visiting')."
+        },
+        {
+            "text": "My cat never ___ milk. It only drinks water.",
+            "options": ["drink", "drinks", "is drinking"],
+            "correctAnswer": 1,
+            "explanation": "'Never' is an adverb of frequency for routines. Cat is 'it', so we use Present Simple with -s ('drinks')."
+        },
+        {
+            "text": "Why ___? Is there something funny?",
+            "options": ["are you laughing", "do you laugh", "you laugh"],
+            "correctAnswer": 0,
+            "explanation": "The person is asking about an action happening at this exact moment. Present Continuous ('are you laughing')."
+        },
+        {
+            "text": "We ___ a test this Friday. The teacher told us yesterday.",
+            "options": ["have", "are having", "has"],
+            "correctAnswer": 1,
+            "explanation": "'This Friday' is an organized future event. We use Present Continuous ('are having')."
+        },
+        {
+            "text": "The Earth ___ around the Sun.",
+            "options": ["go", "is going", "goes"],
+            "correctAnswer": 2,
+            "explanation": "This is a universal fact. We always use Present Simple for facts ('goes')."
+        },
+        {
+            "text": "Listen! Somebody ___ the piano.",
+            "options": ["plays", "is playing", "play"],
+            "correctAnswer": 1,
+            "explanation": "'Listen!' tells us the action is in progress right now. Present Continuous ('is playing')."
+        },
+        {
+            "text": "I ___ to school, but today I am taking the bus because it's raining.",
+            "options": ["usually walk", "am usually walking", "usually walks"],
+            "correctAnswer": 0,
+            "explanation": "The first part describes a normal habit ('usually walk' - Present Simple), contrasted with a temporary action today."
+        },
+        {
+            "text": "My friends ___ a party for my birthday tomorrow night.",
+            "options": ["organize", "are organizing", "organizes"],
+            "correctAnswer": 1,
+            "explanation": "'Tomorrow night' is a future arrangement. Present Continuous ('are organizing')."
+        },
+        {
+            "text": "He ___ English and French fluently.",
+            "options": ["is speaking", "speak", "speaks"],
+            "correctAnswer": 2,
+            "explanation": "Speaking a language is a permanent state/fact, not a temporary action. Present Simple ('speaks')."
+        },
+        {
+            "text": "Where is Mum? She ___ dinner in the kitchen.",
+            "options": ["makes", "is making", "make"],
+            "correctAnswer": 1,
+            "explanation": "The question asks where she is right now, so the action is happening now. Present Continuous ('is making')."
+        },
+        {
+            "text": "They ___ to the gym three times a week.",
+            "options": ["go", "are going", "goes"],
+            "correctAnswer": 0,
+            "explanation": "'Three times a week' is a routine. We use Present Simple ('go')."
+        },
+        {
+            "text": "I ___ my new sneakers tomorrow.",
+            "options": ["wear", "am wearing", "wears"],
+            "correctAnswer": 1,
+            "explanation": "'Tomorrow' indicates a future plan or intention. Present Continuous ('am wearing')."
+        },
+        {
+            "text": "Normally it doesn't rain in summer, but it ___ right now.",
+            "options": ["rains", "rain", "is raining"],
+            "correctAnswer": 2,
+            "explanation": "'Right now' indicates the current moment, contrasting with the normal routine. Present Continuous ('is raining')."
+        },
+        {
+            "text": "What time ___ up on Sundays?",
+            "options": ["do you wake", "are you waking", "you wake"],
+            "correctAnswer": 0,
+            "explanation": "'On Sundays' asks about a routine. We use Present Simple for questions ('do you wake')."
+        },
+        {
+            "text": "We ___ for London at 8:00 AM tomorrow. The flight is booked.",
+            "options": ["leave", "are leaving", "leaves"],
+            "correctAnswer": 1,
+            "explanation": "A booked flight is a fixed future arrangement. Present Continuous ('are leaving')."
+        }
+    ]
+}
